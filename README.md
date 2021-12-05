@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, html, css.That's all=((
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
-      + Facebook: https://www.facebook.com/nbp07072006/
+      --> Facebook: https://www.facebook.com/nbp07072006/
 
 <!---
 nguyenphuong2006/nguyenphuong2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
